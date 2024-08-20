@@ -22,6 +22,3 @@ xpkg -R https://pkg.nilsu.org/void -a
 
 The sources for this repo can be found here:\
 https://git.sr.ht/~kota/nilsu-pkg-void
-
-Feel free to write me an email if something needs updated. Bonus points if you
-include the updated template :)
